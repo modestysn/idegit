@@ -1,3 +1,1 @@
-A simple repo for git integration testing
-# TEST 2
-## new edit after clone
+Updated with beta version of library
