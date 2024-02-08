@@ -2,3 +2,4 @@ TEST 1
 removed # via MID Server
 updated without MID
 new line edited to test out commit keyboard shortcut
+testing with MID on TD k8s0541261-node1.thunder.devsnc.com
