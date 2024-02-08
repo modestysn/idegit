@@ -1,3 +1,4 @@
 TEST 1
 removed # via MID Server
 updated without MID
+new line edited to test out commit keyboard shortcut
