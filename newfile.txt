@@ -5,4 +5,4 @@ new line edited to test out commit keyboard shortcut
 testing with MID on TD k8s0541261-node1.thunder.devsnc.com
 hello, staged changes
 new change - after clone
-changes to stage
+changes edited on TD
