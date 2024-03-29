@@ -1,0 +1,16 @@
+{
+    "name": "idegit",
+    "version": "0.0.1",
+    "description": "testing merge conflict with sub folders",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "type": "module",
+    "author": "modesty zhang",
+    "license": "MIT",
+    "dependencies": {
+      "isomorphic-git": "^1.25.4"
+    }
+  }
+  
