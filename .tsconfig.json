@@ -1,4 +1,4 @@
 {
     "root": ".",
-    "cache": "~/Library/cache/"
+    "cache": "./.cache/"
 }
