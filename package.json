@@ -1,6 +1,6 @@
 {
     "name": "idegit",
-    "version": "0.1.4",
+    "version": "0.1.6",
     "description": "testing merge conflict with sub folders",
     "main": "index.js",
     "scripts": {
