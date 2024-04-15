@@ -1,6 +1,6 @@
 {
     "name": "idegit",
-    "version": "0.1.15",
+    "version": "0.1.16",
     "description": "testing merge conflict with sub folders",
     "main": "index.js",
     "scripts": {
@@ -12,6 +12,6 @@
     "dependencies": {
       "isomorphic-git": "^1.25.4"
     },
-    "repo": "https://github.com/modestysn/idegit123"
+    "repo": "https://github.com/modestysn/idegit"
 }
   
