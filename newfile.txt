@@ -7,4 +7,4 @@ hello, staged changes
 new change - after clone
 changes edited on TD
 this is a test for changes in text file
-added on 08/18
+added on 04/18-01
