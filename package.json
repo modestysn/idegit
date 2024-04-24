@@ -4,7 +4,8 @@
     "description": "testing merge conflict with sub folders",
     "main": "index.js",
     "scripts": {
-      "test": "test"
+      "test": "test",
+      "pretest" : "webpack"
     },
     "type": "module",
     "author": "modesty zhang",
