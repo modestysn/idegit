@@ -1,4 +1,5 @@
 {
     "root": ".",
-    "cache": "./.cache/"
+    "cache": "./.cache/",
+    "change": "inst2"
 }
