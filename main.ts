@@ -3,7 +3,7 @@ function main() {
     console.log('add one more log to the entrance');
 }
 
-//This
-//Is
-//A
 //Test
+//A
+//Is
+//This
